@@ -6,13 +6,13 @@
 
 ## Скачать APK
 
-Текущая опубликованная версия — **v0.1.8-alpha**.
+Текущая опубликованная версия — **v0.1.9-alpha**.
 
 | Файл | Для каких устройств |
 | --- | --- |
-| [AnarchyChess-v0.1.8-alpha.apk](https://github.com/IvanChess/AnarchyChess-Releases/releases/download/v0.1.8-alpha/AnarchyChess-v0.1.8-alpha.apk) | Основной APK для устройств с ARM64. |
-| [AnarchyChess-v0.1.8-alpha-arm64.apk](https://github.com/IvanChess/AnarchyChess-Releases/releases/download/v0.1.8-alpha/AnarchyChess-v0.1.8-alpha-arm64.apk) | Тот же APK под отдельным названием для 64-битных устройств. |
-| [AnarchyChess-v0.1.8-alpha-arm32.apk](https://github.com/IvanChess/AnarchyChess-Releases/releases/download/v0.1.8-alpha/AnarchyChess-v0.1.8-alpha-arm32.apk) | Вариант для 32-битных устройств с ARMv7. |
+| [AnarchyChess-v0.1.9-alpha.apk](https://github.com/IvanChess/AnarchyChess-Releases/releases/download/v0.1.9-alpha/AnarchyChess-v0.1.9-alpha.apk) | Основной APK для устройств с ARM64. |
+| [AnarchyChess-v0.1.9-alpha-arm64.apk](https://github.com/IvanChess/AnarchyChess-Releases/releases/download/v0.1.9-alpha/AnarchyChess-v0.1.9-alpha-arm64.apk) | Тот же APK под отдельным названием для 64-битных устройств. |
+| [AnarchyChess-v0.1.9-alpha-arm32.apk](https://github.com/IvanChess/AnarchyChess-Releases/releases/download/v0.1.9-alpha/AnarchyChess-v0.1.9-alpha-arm32.apk) | Вариант для 32-битных устройств с ARMv7. |
 
 Скачайте один подходящий файл. Если приложение уже установлено, обновите его поверх предыдущей версии: не удаляйте приложение и не очищайте данные, чтобы сохранить локальный прогресс.
 
@@ -23,6 +23,15 @@
 - **Сохранение результатов.** Прогресс Самурая синхронизируется через аккаунт приложения. Завершённые офлайн-тренировки отправляются после восстановления связи, без повторного начисления XP. Гостевой прогресс хранится на устройстве. Прогресс приложения независим от Telegram-бота.
 - **Локальный Stockfish.** Анализ шахматных позиций без интернета.
 - **Светлая и тёмная темы.** Звук и вибрация Самурая учитывают настройки приложения.
+
+## Новое в v0.1.9-alpha
+
+- **Справка на главной:** восемь разделов RU/EN с иллюстрациями и офлайн-чтением.
+- **«Туман войны»:** локальный бот и игра вдвоём на одном телефоне. Онлайн-игра пока закрыта на сервере.
+- **Ivan:** вопросы о позиции, история и загрузка публичных профилей. Для ответов модели нужен вход и отдельно разрешённый серверный доступ.
+
+Проверки сетевой игры с двумя аккаунтами и физических телефонов продолжаются.
+Подробности и ограничения — в [заметках версии](https://github.com/IvanChess/AnarchyChess-Releases/releases/tag/v0.1.9-alpha).
 
 ## Установка
 
