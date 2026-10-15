@@ -6,7 +6,11 @@
 
 ## Скачать APK
 
-Текущая опубликованная версия — **v0.1.9-alpha**.
+Предварительный выпуск — **[v0.1.10-alpha](https://github.com/IvanChess/AnarchyChess-Releases/releases/tag/v0.1.10-alpha)**: просмотр всей локальной партии «Тумана войны» после окончания. [Скачать ARM64](https://github.com/IvanChess/AnarchyChess-Releases/releases/download/v0.1.10-alpha/AnarchyChess-v0.1.10-alpha-arm64.apk) · [Скачать ARM32](https://github.com/IvanChess/AnarchyChess-Releases/releases/download/v0.1.10-alpha/AnarchyChess-v0.1.10-alpha-arm32.apk).
+
+APK подписаны прежним сертификатом; полный набор Flutter-тестов прошёл. Android-проверка нового просмотра ещё не завершена из-за недоступности GitHub Actions. Подробности и контрольные суммы — в заметках выпуска.
+
+Последняя версия без отметки «предварительная» — **v0.1.9-alpha**: файлы ниже.
 
 | Файл | Для каких устройств |
 | --- | --- |
